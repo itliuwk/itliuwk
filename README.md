@@ -2,7 +2,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itliuwk&show_icons=true&theme=vue)](https://github.com/itliuwk/readme)
+# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itliuwk&show_icons=true&theme=vue)](https://github.com/itliuwk/readme)
 
 ---
 
