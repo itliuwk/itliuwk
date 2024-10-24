@@ -1,12 +1,4 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=itliuwk&locale=zh_Hans)
-
-
-
 # [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itliuwk&show_icons=true&theme=vue)](https://github.com/itliuwk/readme)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itliuwk&layout=compact)](https://github.com/itliuwk/readme)
 
 <div align="center">
 
@@ -16,7 +8,7 @@
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
  
- 💪 正在学习
+ 💪 技术栈
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -68,5 +60,7 @@
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=itliuwk&locale=zh_Hans)
 </div>
 
