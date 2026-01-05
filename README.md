@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itliuwk&layout=compact)](https://github.com/itliuwk)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itliuwk&layout=compact)](https://github.com/itliuwk) -->
 
 <!-- ![](https://count.getloli.com/get/@smallfawn) -->
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
